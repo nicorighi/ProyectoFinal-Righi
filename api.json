@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "RTX 4090",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_645571-MLA52697337337_122022-O.webp"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Ryzen 5 5600x",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_806834-MLA44347094824_122020-O.webp"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "ASUS ROG STRIX B650-A",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_986223-MLA53457451421_012023-O.webp"
+    },
+    {
+      "precio": 50,
+      "id": 4,
+      "title": "Memoria RAM Fury DDR4 8GB",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_725124-MLA40927542006_022020-O.webp"
+    },
+    {
+      "precio": 10,
+      "id": 5,
+      "title": "SSD Kingston 480G",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_751939-MLA46221843872_052021-O.webp"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Fuente Gigabyte P850gm 80plus Gold Modular",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_611990-MLA49022703954_022022-O.webp"
+    }
+  ]
